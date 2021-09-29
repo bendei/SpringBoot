@@ -1,0 +1,13 @@
+1. Spring boot projekt létrehozása eclipsben: 	
+	https://dzone.com/articles/introducing-spring-boot
+
+2. 
+
+mvn clean
+mvn package : ez egy runnable jar-t hoz létre, embedded Tomcat tel
+mvn spring-boot:run : futtatjuk a runnable jar-t
+
+
+exception handling:
+https://springframework.guru/exception-handling-in-spring-boot-rest-api/
+
