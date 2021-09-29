@@ -1,0 +1,10 @@
+Az Egit plugin nem tud alapból kapcsolódni a github accountomhoz, hiába adom meg neki a correktet:
+istvan_bende@yahoo.com	Patika72
+
+Megoldás: a github oldalán Privatze Access Tokent generáltattam le és ezt használom az Eclipse-ben a password helyett:
+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
+
+
+Nagyon jó leírás a egit használatáról:	http://wiki.eclipse.org/EGit/User_Guide#Eclipse_SSH_Configuration
+
+
