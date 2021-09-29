@@ -10,4 +10,4 @@ mvn spring-boot:run : futtatjuk a runnable jar-t
 
 exception handling:
 https://springframework.guru/exception-handling-in-spring-boot-rest-api/
-
+haha
