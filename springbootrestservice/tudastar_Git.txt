@@ -15,7 +15,7 @@ personal access token: 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
 A github-on a SpringBoot egy eclipse projekt.
 Létrehozunk és lehuzunk a githubról a SpringBoot projektet:
 File -> Import -> Project from Git -> Clone URI -> megadunk egy foldert a workspace locationon belül, hogy ide mentsük le a fájlokat. Import as eclipse projekt -radiót kell bekapcsolnunk.
-Ezután már nem kell a Team -> share project, már version controll alatt vannak a fájlok.
+Ezután már nem kell a Team -> share project, már version controll alatt vannak a fájlok és a working tree is populálva van a git repositores view-ban.
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
