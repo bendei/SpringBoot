@@ -564,6 +564,7 @@ https://dzone.com/articles/java-8-lambda-functions-usage-examples
 GIT + Eclipse
 	https://www.vogella.com/tutorials/EclipseGit/article.html
 
+
 Ez az igazi leirás:
 	http://wiki.eclipse.org/EGit/User_Guide#Creating_Repositories
 	
