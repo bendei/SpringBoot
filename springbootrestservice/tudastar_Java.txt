@@ -566,4 +566,6 @@ GIT + Eclipse
 
 Ez az igazi leirás:
 	http://wiki.eclipse.org/EGit/User_Guide#Creating_Repositories
+	
+
 		 
