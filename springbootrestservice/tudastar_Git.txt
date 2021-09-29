@@ -4,6 +4,20 @@ istvan_bende@yahoo.com	Patika72
 Megoldás: a github oldalán Personal Access Tokent generáltattam le és ezt használom az Eclipse-ben a password helyett:
 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
 
+1. account github
+personal Access Toke fr github: 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
+github:	istvan_bende@yahoo.com	/ pw= Patika72			 bendei72	
+
+2. account on github:
+bendeistvaneger@gmail.com username: egerke72	pw: Kakukk1972.
+personal access token: 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
+
+A github-on a SpringBoot egy eclipse projekt.
+Létrehozunk és lehuzunk a githubról a SpringBoot projektet:
+File -> Import -> Project from Git -> Clone URI -> megadunk egy foldert a workspace locationon belül, hogy ide mentsük le a fájlokat. Import as eclipse projekt -radiót kell bekapcsolnunk.
+Ezután már nem kell a Team -> share project, már version controll alatt vannak a fájlok.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Nagyon jó leírás a egit használatáról:	http://wiki.eclipse.org/EGit/User_Guide#Eclipse_SSH_Configuration
 
